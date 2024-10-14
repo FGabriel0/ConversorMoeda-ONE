@@ -1,4 +1,4 @@
-# Conversor de Moedas em Java
+# Conversor de Moedas
 
 Este é um conversor de moedas simples desenvolvido em **Java** que utiliza a **Exchange Rate API** para obter taxas de câmbio em tempo real. O projeto segue o paradigma de programação orientada a objetos e oferece uma interface textual (via console) para interação com o usuário.
 
